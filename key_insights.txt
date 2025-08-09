@@ -1,0 +1,6 @@
+1. Most common market sentiment in the dataset: Fear
+2. Highest average Closed PnL occurs during 'Unknown' sentiment (7078.67).
+3. Lowest average Closed PnL occurs during 'Neutral' sentiment (34.31).
+4. Traders use highest average trade size during 'Unknown' sentiment (14778.14 USD).
+5. Highest win rate is during 'Unknown' sentiment (100.00%).
+6. Most trades occur at hour 0:00.
