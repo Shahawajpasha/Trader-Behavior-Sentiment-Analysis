@@ -85,7 +85,7 @@ ds_shahawajpasha/
 ## 🔗 Links
 - **Google Colab Notebook:** https://colab.research.google.com/drive/1Ki8Ju8HdwS85sLDuIrzG23YPFFSx03GV?usp=sharing
 
-- **GitHub Repository:** [Insert your GitHub repo link here]
+- **GitHub Repository:** https://github.com/Shahawajpasha/Trader-Behavior-Sentiment-Analysis
 
 ---
 
